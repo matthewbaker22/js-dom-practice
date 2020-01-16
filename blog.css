@@ -1,0 +1,45 @@
+.article {
+    padding: 10px;
+    border: 1px solid blue;
+    text-align: center;
+    padding: 5%;
+}
+
+.article__header {
+    font-size: 1.5em;
+}
+
+.article__footer {
+    padding: 0 30px;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+}
+
+.dashed {
+    border: 1px dashed black;
+}
+
+.bcg {
+    background: skyblue;
+}
+
+#simple-list li {
+    list-style-type: none;
+}
+
+.red-text {
+    color: red;
+    font-size: 25px;
+}
+
+.blue-text {
+    color: blue;
+    font-size: 50px;
+}
+
+.green-text {
+    color: green;
+    font-size: 75px;
+}
